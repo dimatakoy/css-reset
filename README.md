@@ -6,3 +6,7 @@ This file resets basic CSS quirks and visually improves UX.
 - **scroll-behavior: smooth** — enables smooth scrolling for the HTML element when prefers-reduced-motion is set to no-preference.
 - **margin: 0** — removes default margins from the body element.
 - **-webkit-font-smoothing: antialiased** — improves the appearance of text by smoothing out jagged edges.
+
+## License
+
+[MIT](./LICENSE)
