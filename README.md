@@ -1,11 +1,13 @@
-## reset.css
+# Reset CSS
 
-This file resets basic CSS quirks and visually improves UX.
+A modern CSS reset that normalizes browser defaults and enhances user experience across devices.
 
-- **box-sizing: border-box** — makes sure that the total width and height of an element includes it's border or padding.
-- **scroll-behavior: smooth** — enables smooth scrolling for the HTML element when prefers-reduced-motion is set to no-preference.
-- **margin: 0** — removes default margins from the body element.
-- **-webkit-font-smoothing: antialiased** — improves the appearance of text by smoothing out jagged edges.
+## Features
+
+- **Universal Box Sizing**: Applies border-box to all elements and pseudo-elements, ensuring predictable sizing calculations
+- **Conditional Smooth Scrolling:** Enables smooth scrolling only when users don't prefer reduced motion
+- **Margin Reset:** Removes default body margins for consistent spacing control
+- **Font Rendering Optimization:** Improves text legibility with antialiased font smoothing
 
 ## License
 
